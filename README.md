@@ -1,2 +1,2 @@
-# Gym
+# gym
 Building up brain
