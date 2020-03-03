@@ -1,2 +1,2 @@
 # gym
-Building up brain
+Brain Workout
